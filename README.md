@@ -49,11 +49,4 @@ The codebase constructs and contrasts a wide variety of predictive models:
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Installation
-Ensure you have Python installed, then clone this repository and install the dependencies:
-```bash
-git clone https://github.com/yourusername/ercot-energy-forecasting.git
-cd ercot-energy-forecasting
-pip install -r requirements.txt
